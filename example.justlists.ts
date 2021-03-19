@@ -121,6 +121,23 @@
             "name":"HuobiToken",
             "logoURI":"https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
         }
+           {
+            "symbol":"TRK",
+            "address":"TUPJDZLUovsaBDW9kQmQQihn1STv9um1Yb",
+            "chainId":1,
+            "decimals":6,
+            "name":"TronlikeToken",
+            "logoURI":"https://coin.top/production/upload/logo/TUPJDZLUovsaBDW9kQmQQihn1STv9um1Yb.png"
+        }
+        
+   ],
+   "version": { #Version info
+       "major": 1, #Major version
+       "minor": 0, #Minor version
+       "patch": 0  #Patch version
+   }
+}
+        
     ],
     "logoURI":"https://justswap.io/favicon.ico",
     "version":{
