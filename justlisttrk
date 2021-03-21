@@ -1,0 +1,20 @@
+{
+   "name": "Tronlike", #Token
+   "logoURI": "https://coin.top/production/upload/logo/TUPJDZLUovsaBDW9kQmQQihn1STv9um1Yb.png", #List logo uri
+   "timestamp": 1610339529000, #Update time in millisecond
+   "tokens": [{
+           "chainId": 1, #ChainId, which is currently 1
+           "address": "TUPJDZLUovsaBDW9kQmQQihn1STv9um1Yb", #Token address
+           "name": "TronLike", #Token name
+           "symbol": "TRK", #Token symbol
+           "decimals": 6, #Token decimals
+           "logoURI": "https://coin.top/production/upload/logo/TUPJDZLUovsaBDW9kQmQQihn1STv9um1Yb.png" #Token logo uri
+       },
+      
+   ],
+   "version": { #Version info
+       "major": 1, #Major version
+       "minor": 0, #Minor version
+       "patch": 0  #Patch version
+   }
+}
